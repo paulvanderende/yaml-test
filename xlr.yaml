@@ -2,5 +2,5 @@ apiVersion: xl-release/v1
 kind: Templates
 spec:
   - template: VCS test
-    description: This XL Release template performs a demo scenario.
+    description: This XL Release template performs a demo scenario update.
 
