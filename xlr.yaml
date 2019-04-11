@@ -8,4 +8,5 @@ spec:
         tasks:
           - name: Task 1
             type: xlrelease.GateTask
-
+          - name: Task 2
+            type: xlrelease.GateTask
