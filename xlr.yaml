@@ -3,4 +3,9 @@ kind: Templates
 spec:
   - template: VCS test
     description: This XL Release template performs a demo scenario update.
+    phases:
+      - phase: Phase 1
+        tasks:
+          - name: Task 1
+            type: xlrelease.GateTask
 
