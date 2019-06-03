@@ -1,0 +1,9 @@
+apiVersion: xl-release/v1
+kind: Templates
+spec:
+  - template: Dep 2
+    phases:
+      - phase: Phase 1
+        tasks:
+          - name: Task 1
+            type: xlrelease.GateTask
