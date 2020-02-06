@@ -7,3 +7,5 @@ spec:
         tasks:
           - name: Task 1
             type: xlrelease.GateTask
+
+            Test
