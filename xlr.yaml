@@ -6,7 +6,7 @@ spec:
     phases:
       - phase: Phase 1
         tasks:
-          - name: Task 1
-            type: xlrelease.GateTask
           - name: Task 2
+            type: xlrelease.GateTask
+          - name: Task 3
             type: xlrelease.GateTask
